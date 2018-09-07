@@ -1,0 +1,25 @@
+{
+  "name": "financialnotebook",
+  "version": "1.0.0",
+  "description": "\"Application financial notebook\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myloveit191/FinancialNotebook.git"
+  },
+  "author": "\"Duong Dinh Nghia\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myloveit191/FinancialNotebook/issues"
+  },
+  "homepage": "https://github.com/myloveit191/FinancialNotebook#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
