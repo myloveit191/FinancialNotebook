@@ -17,9 +17,8 @@
   },
   "homepage": "https://github.com/myloveit191/FinancialNotebook#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.3"
   },
-  "devDependencies": {
-    "gulp": "^3.9.1"
-  }
+  "devDependencies": {}
 }
